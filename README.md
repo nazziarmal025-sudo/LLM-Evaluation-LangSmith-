@@ -35,6 +35,7 @@ A simple Streamlit app that:
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 python -m pip install -U pip
+```
 
 ## 3) Install (VS Code / Terminal)
 pip install -r requirements.txt
